@@ -165,7 +165,7 @@ come from [Poly Haven](https://polyhaven.com) under CC0 (no attribution required
 
 ## Fonts
 
-Their licence texts ship beside them in `Content/RushData/Fonts`.
+Their licence texts ship beside them in `Content/RushData/Fonts` and, in the built game, in its `Lisanslar` folder.
 
 | Font | Use | Licence |
 |---|---|---|

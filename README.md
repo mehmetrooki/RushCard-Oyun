@@ -42,7 +42,7 @@ Oyun İngilizce açılır; Settings > Driving > "Language · Dil" satırından T
 
 Oyundaki üçüncü taraf modeller, sesler ve yazı tipleri ile lisansları [CREDITS.md](CREDITS.md) dosyasında
 (CC BY modellerin yazarları dahil). Yazı tipleri SIL Open Font License ve DejaVu lisansıyla gelir; lisans metinleri
-oyun klasöründe `RushCard\Content\RushData\Fonts` içinde.
+oyun klasöründeki `Lisanslar` klasöründe.
 
 ---
 
