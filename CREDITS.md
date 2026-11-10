@@ -153,6 +153,7 @@ with any build you share.
 | [Kenney Sci-fi Sounds](https://kenney.nl/assets/sci-fi-sounds), [Impact Sounds](https://kenney.nl/assets/impact-sounds) | CC0 |
 | [Humpback whale moo](https://commons.wikimedia.org/wiki/File:Humpback_whale_moo.ogg), U.S. National Park Service | Public domain |
 | [Humpbackwhale2](https://commons.wikimedia.org/wiki/File:Humpbackwhale2.ogg), Wikimedia Commons | CC0 |
+| [Car tire squeal skid loop](https://opengameart.org/content/car-tire-squeal-skid-loop) by audible-edge (Tom Haigh), via OpenGameArt: the drift / tyre sounds (SFX_SkidLoop, SFX_Drift; resampled, filtered, the drift start cut from it) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
 
 ## Particle sprites
 

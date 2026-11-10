@@ -35,6 +35,7 @@ ilerlemen güncellemelerde korunur. Kaldırmak için o klasörü ve masaüstünd
 | Roketi arkaya ateşle | Q (basılı) + E | LT (basılı) + B |
 | Arkaya bak / kamera | Q / C | LT / RT |
 | Mola | Esc | Menu |
+| Garajda / dükkânda kartı döndür | Z / C | Sağ çubuk |
 
 Oyun İngilizce açılır; Settings > Driving > "Language · Dil" satırından Türkçe yapılır.
 
